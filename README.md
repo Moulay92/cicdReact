@@ -1,5 +1,5 @@
 # cicdReact
 
-ANDROID: [![Build status](https://build.appcenter.ms/v0.1/apps/b1b63b18-2b21-4b09-916a-4fd4a1b84c13/branches/dev/badge)](https://appcenter.ms)
+ANDROID: [![Build status](https://build.appcenter.ms/v0.1/apps/cceb5982-e7bc-48f3-b756-41f6de7805f4/branches/dev/badge)](https://appcenter.ms)
 
-IOS: [![Build status](https://build.appcenter.ms/v0.1/apps/94e79188-0c3f-4f1f-80bc-a170d3337ae1/branches/dev/badge)](https://appcenter.ms)
+IOS: [![Build status](https://build.appcenter.ms/v0.1/apps/c38f1fe7-9eb9-4a65-b758-f82b8cf7078b/branches/dev/badge)](https://appcenter.ms)
